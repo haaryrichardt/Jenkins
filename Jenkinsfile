@@ -3,7 +3,7 @@ pipeline
     agent any
     stages
     {
-        stage ('Image Scanning')
+        stage ('Sample Stage')
         {
             steps
             {
